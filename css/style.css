@@ -410,14 +410,25 @@ footer p {
     font-weight: 500;
     line-height: 14px;
     width: 250px;
-    font-style: normal;
-    text-align: left;
-    color: #5863f8;
+    color: white;
     margin-bottom: 16px;
 }
 
-.li-2 img {
+
+#email {
     width: 16px;
     height: 13px;
+    margin-right: 14px;
+}
+
+#phone {
+    width: 16px;
+    height: 16px;
+    margin-right: 14px;
+}
+
+#location {
+    width: 13px;
+    height: 16px;
     margin-right: 14px;
 }
